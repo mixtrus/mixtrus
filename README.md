@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Banner" width="600"/>
+  <img src="https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif" alt="Banner" width="600"/>
 </p>
 
 <h1 align="center">Hi there, I'm Saman Sohrabi 👋</h1>
