@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif" alt="Banner" width="600"/>
+  <img src="https://samanco.de/img/bird.webp" alt="Banner" width="300"/>
 </p>
 
 <h1 align="center">Hi there, I'm Saman Sohrabi 👋</h1>
